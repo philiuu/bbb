@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/philiuu/Tutuo/refs/heads/main/BananaCat_NPC_Gate_Spy_v5.lua   
+loadstring(game:HttpGet("https://raw.githubusercontent.com/philiuu/banaa/refs/heads/main/bananacathub.lua"))()  
