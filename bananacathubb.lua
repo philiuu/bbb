@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/philiuu/qqq/refs/heads/main/bananacathub_v6.lua"))()  
+loadstring(game:HttpGet("https://raw.githubusercontent.com/philiuu/yyy/refs/heads/main/bananacathub_v7.lua"))()  
